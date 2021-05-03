@@ -1,9 +1,11 @@
 {
+  "temp_directory": "./tmp",
+  "file_directory": "./files",
   "twitter": {
-    "consumer_key":"",
-    "consumer_secret":"",
-    "access_token":"",
-    "access_token_secret":""
+    "consumer_key": "",
+    "consumer_secret": "",
+    "access_token": "",
+    "access_token_secret": ""
   },
   "datasets": {
     "ousidhoum2019ar.csv": {
